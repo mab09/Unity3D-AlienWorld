@@ -1,9 +1,7 @@
 # Unity3D-AlienWorld
 Unity Version: 2018.3.12f1
 
-Watch here - https://www.youtube.com/watch?v=esLw8XKCVJY
-
-VR Version - https://www.youtube.com/watch?v=lnD-A6ar4Dk
+Watch here - https://www.youtube.com/watch?v=lnD-A6ar4Dk
 
 The main idea of this project was to build a space once used by an unknown alien civilization. I feel the scene here is quite simple and it does its job of portraying the goal.
 The player starts, as if he fell through a crevice into a cave, the cave has some strange echoing sounds and at the opening of the cave there seems to be a sandstorm outside. As the player starts to get past the storm which has very low visibility, he is eventually greeted by strange large structures with some writings on it.
